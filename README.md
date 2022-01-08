@@ -1,3 +1,3 @@
 # Time and Date - Realtime
 ----
-(https://arpitghura.github.io/time-date)[https://arpitghura.github.io/time-date]
+Link to Access : [https://arpitghura.github.io/time-date](https://arpitghura.github.io/time-date)
